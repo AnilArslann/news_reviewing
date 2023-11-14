@@ -1,0 +1,22 @@
+#root{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  background-color: red;
+
+}
+ div.main{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+
+}
+div.main .card{
+  margin-right:1rem;
+  display: flex;
+  width:auto;
+  height: auto;
+  background-color: bisque;
+  border: 1px solid black;
+}
